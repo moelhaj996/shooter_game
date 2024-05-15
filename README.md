@@ -7,11 +7,15 @@ Shooter Game
 Description
 A 2D shooter game developed using Python and Pygame.
 
+
+
 Features
+
 Player movement and shooting
 Enemy spawning
 Scoring system
 Sound effects and graphics
+
 Installation
 Clone the repository.
 Install the required packages:
