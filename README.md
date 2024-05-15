@@ -1,9 +1,6 @@
 # shooter_game
 
 
-Sure! Here’s a simplified yet professional version of the README file:
-
-Shooter Game
 Description
 A 2D shooter game developed using Python and Pygame.
 
